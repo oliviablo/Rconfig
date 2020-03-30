@@ -1,0 +1,14 @@
+defaultPackages
+rlang
+assertthat
+plyr
+tidyr
+dplyr
+stringr
+stringi
+forcats
+purrr
+lubridate
+ggplot2
+productplots
+ggmosaic
