@@ -10,6 +10,5 @@ File `.Rprofile`
 * manual user configuration: place .Rprofile in R_USER directory (recommended)
 * manual project configuration: place .Rprofile in working/project directory
 
-File `.Rprofile_defaultpackages` is accessed in `.Rprofile` via GitHub
-
+File `.Rprofile_defaultpackages` is accessed in `.Rprofile` via GitHub. (Optional) It can be placed in R_USER directory as fall back option.
 
